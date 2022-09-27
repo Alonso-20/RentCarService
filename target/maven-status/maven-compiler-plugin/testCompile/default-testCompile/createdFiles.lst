@@ -1,4 +1,3 @@
 com\api\rentcar\RentcarApplicationTests.class
 com\api\rentcar\Test\IntegralTest\IntegralTests.class
-com\api\rentcar\Test\ReservationTest.class
 com\api\rentcar\Test\UnitTest\UnitTests.class
